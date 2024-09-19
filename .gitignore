@@ -13,6 +13,7 @@ wordpress/wp-content/*
 !wordpress/wp-content/plugins
 wordpress/wp-content/plugins/*
 !wordpress/wp-content/plugins/wp-codespace
+!wordpress/wp-content/plugins/easy-simple-consent-plugin
 
 !wordpress/wp-content/themes
 wordpress/wp-content/themes/*
